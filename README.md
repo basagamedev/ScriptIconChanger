@@ -16,8 +16,12 @@ This Unity Editor script, written in C#, allows developers to replace the defaul
 # Example Usage:
 
 1 - Create a folder named Editor in the Assets directory of your project if it doesn’t already exist.
+
 2 - Place the provided C# script inside the Editor folder.
+
 3 - In Unity, go to the Tools menu and select Script Icon Changer to open the window.
+
 4 - Select the script and icon you want to use, then click "Change Icon" to update the script's icon.
+
 5 - The script’s icon is now updated, making it easier to identify within your project.
 
