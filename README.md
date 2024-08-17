@@ -5,7 +5,7 @@
 
 This Unity Editor script, written in C#, allows developers to replace the default script icon with a custom icon directly within the Editor. With this tool, you can select any script in your project folder and assign a new icon to it, making it easier to visually identify scripts in Unity.
 
-**Place this script inside the Editor folder of your project to enable this functionality.**
+**Place this script inside the Editor folder of your project.**
 
 # Features:
 
